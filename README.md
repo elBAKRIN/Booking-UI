@@ -1,6 +1,10 @@
 # booking_ui
 
 Booking app UI
+![Slice 20](https://github.com/elBAKRIN/Booking-UI/assets/69627568/004e10f7-e474-4298-aedb-46f02c75ab21)
+
+
+
 
 ## Getting Started
 
